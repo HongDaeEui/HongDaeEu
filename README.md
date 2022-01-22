@@ -2,7 +2,7 @@
 
 ### Who am I? 👨‍👩‍👦
 
- - **I'm a Blockchain Front-End Develover** 🎨   
+ - **I'm a Blockchain Front-End Developer** 🎨   
 
  - 🇰🇷  **I'm working in South Korea**
 
