@@ -1,4 +1,6 @@
-### Hi there 👋   
+## Hi there 👋, Nice everyone 
+
+### Who am I? 👨‍👩‍👦
 
  - **I'm a Blockchain Front-End Develover** 🎨   
 
@@ -10,11 +12,9 @@
 
 - 📓 **HongDaeEu's blog ...** [![Blogger Badge](http://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=blogger&logoColor=white&link=https://pastelblockchain.tistory.com/)](https://pastelblockchain.tistory.com/)
 
-- 🎬 **HongDaeEu's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)](https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)     
+- 🎬 **HongDaeEu's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)](https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDaeEui&&show_icons=true&theme=vue)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongDaeEui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### What are my activities? 🤔
 
 #### 🌈 Repositories I created recently
 - **[HongDaeEui/web3-react-connect-MetaMask](https://github.com/HongDaeEui/web3-react-connect-MetaMask)** - MetaMask connection using web3-react
@@ -35,3 +35,9 @@ Many thanks everyone! 🙏
 
 #### 📄 Latest posts
 - [React-MetaMask](https://pastelblockchain.tistory.com/43) (1 weeks ago)
+
+### What's the status of my GitHub? 🤔    
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDaeEui&&show_icons=true&theme=vue)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongDaeEui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
