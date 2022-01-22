@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
- - 🎨 **I'm a Blockchain Front-End Develover**    
+ - **I'm a Blockchain Front-End Develover** 🎨   
 
  - 🇰🇷  **I'm working in South Korea**
 
