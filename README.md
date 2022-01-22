@@ -1,12 +1,12 @@
 ## Hi there 👋, Nice everyone 
 
-### Who am I? 👨‍👩‍👦
+#### Who am I? 👨‍👩‍👦
 
  - **I'm a Blockchain Front-End Develover** 🎨   
 
  - 🇰🇷  **I'm working in South Korea**
 
-### How to reach me? 🤔
+#### How to reach me? 🤔
 
 - 💌 **HongDaeEu's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-EA5C2B?style=?flat-square&logo=Gmail&logoColor=white&link=mailto:aviate8@gmail.com)](mailto:aviate8@gmail.com)
 
@@ -14,7 +14,7 @@
 
 - 🎬 **HongDaeEu's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)](https://www.youtube.com/channel/UCqR1nqIT71MwtXiqkoD4HAg)
 
-### What are my activities? 🤔
+### What are my activities? 🎈
 
 #### 🌈 Repositories I created recently
 - **[HongDaeEui/web3-react-connect-MetaMask](https://github.com/HongDaeEui/web3-react-connect-MetaMask)** - MetaMask connection using web3-react
