@@ -25,7 +25,12 @@
 
 #### ❤️ Sponsors
 
-- [Tom Payne](https://github.com/twpayne) (1 day ago)
+- [Heekyung Do](https://github.com/heekyungdo) (1 year ago)
+- [Eunkyung Jung](https://github.com/luckyjek) (1 year ago)
+- [Anthony KIM](https://github.com/qwerlarlgus) (1 year ago)
+- [Wankyu Jung](https://github.com/wkjung0624) (1 year ago)
+- [Do KyoungGue](https://github.com/Doku9) (1 year ago)
+- [tejin3](https://github.com/tejin3) (1 year ago)
 
 Many thanks everyone! 🙏
 
