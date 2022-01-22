@@ -15,3 +15,23 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongDaeEui&&show_icons=true&theme=vue)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongDaeEui&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+#### 🌈 Repositories I created recently
+- **[HongDaeEui/web3-react-connect-MetaMask](https://github.com/HongDaeEui/web3-react-connect-MetaMask)** - MetaMask connection using web3-react
+
+#### 🌕 Latest releases I've contributed to
+
+#### ❤️ Sponsors
+
+- [Tom Payne](https://github.com/twpayne) (1 day ago)
+
+Many thanks everyone! 🙏
+
+#### 📚 Some books I'm reading
+
+- **[자신에게 엄격한 사람들을 위한 심리책](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788901251059)** by _오언 오케인_
+
+#### ⭐ Recent Stars
+
+#### 📄 Latest posts
+- [React-MetaMask](https://pastelblockchain.tistory.com/43) (1 weeks ago)
