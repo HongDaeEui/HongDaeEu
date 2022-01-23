@@ -7,15 +7,14 @@
  - 🇰🇷  **I'm working in South Korea**
 
 ### What's my programming language?
-<div align=cente>
+
 **[![React Badge](https://img.shields.io/badge/React-61DAFB?style=?flat-square&logo=React&logoColor=white)]
 **[![Vue Badge](https://img.shields.io/badge/Vue.js-#4FC08D?style=?flat-square&logo=Gmail&logoColor=white)]
 **[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=?flat-square&logo=Gmail&logoColor=whit)]
- **[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=?flat-square&logo=Gmail&logoColor=white)]
- **[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=?flat-square&logo=Gmail&logoColor=white)]
- **[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=?flat-square&logo=Gmail&logoColor=white)]
- **[![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=?flat-square&logo=Gmail&logoColor=white)]
-</div>
+**[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=?flat-square&logo=Gmail&logoColor=white)]
+**[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=?flat-square&logo=Gmail&logoColor=white)]
+**[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=?flat-square&logo=Gmail&logoColor=white)]
+**[![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=?flat-square&logo=Gmail&logoColor=white)]
 
 ### How to reach me? 🤔
 
