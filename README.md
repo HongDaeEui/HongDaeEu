@@ -47,12 +47,12 @@ Many thanks everyone! 🙏
 #### 📚 Some books I'm reading
 
 - **[자신에게 엄격한 사람들을 위한 심리책](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788901251059)** by _오언 오케인_
+- **[떠난 후에 남겨진 것들](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788935213283&orderClick=SPY)** by_김새별•전애원
 
 #### ⭐ Recent Stars
 
 #### 📄 Latest posts
 - [React-MetaMask](https://pastelblockchain.tistory.com/43) (1 weeks ago)
-
 
 ### What's the status of my GitHub? 📊   
 
