@@ -30,6 +30,7 @@
 
 #### 🌈 Repositories I created recently
 - **[HongDaeEui/web3-react-connect-MetaMask](https://github.com/HongDaeEui/web3-react-connect-MetaMask)** - MetaMask connection using web3-react
+- **[HongDaeEui/Nuxt.js](https://github.com/HongDaeEui/Nuxt.js.git)** - Nuxt.js
 
 #### 🌕 Latest releases I've contributed to
 
