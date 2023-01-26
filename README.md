@@ -52,9 +52,10 @@ Many thanks everyone! 🙏
 - **[떠난 후에 남겨진 것들](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788935213283&orderClick=SPY)** by_김새별•전애원
 
 #### ⭐ Recent Stars
+- vue-kakaopay - Pay by linking Kokao Pay in Vue. (1 week ago)
 
 #### 📄 Latest posts
-- [React-MetaMask](https://pastelblockchain.tistory.com/43) (1 weeks ago)
+- [React-MetaMask](https://pastelblockchain.tistory.com/43) (1 years ago)
 
 ### What's the status of my GitHub? 📊   
 
